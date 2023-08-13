@@ -1,0 +1,15 @@
+theme: 
+   name: readthedocs
+   highlights: true
+   nav_style: dark
+
+site_name: GenNFT docs
+site_url: https://example.com/
+nav: 
+  - Home: index.md
+  - About: about.md
+  - make-up: make-up.md
+
+      
+  
+ 
